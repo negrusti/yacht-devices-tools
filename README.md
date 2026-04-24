@@ -1,6 +1,6 @@
 # YDConfig
 
-iCLI utility to configure Yacht Devices devices from Raspberry Pi CLI. Should work on any SocketCAN systemc though.
+CLI utility to configure Yacht Devices devices from Raspberry Pi CLI. Should work on any SocketCAN system though.
 
 ## Usage example
 
